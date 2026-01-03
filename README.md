@@ -7,7 +7,7 @@
 
 ## Objective
 
- As a dedicated student with a solid foundation in cybersecurity principles, along with hands-on experience in system administration and networking, my goal is to secure an entry-level role aligned to **Network & Cloud Security**, **Security Architecture**, **Security Operations**, **Governance, Risk & Compliance**, or **Cyberthreat Intelligence**,  where I can contribute to enhancing organizational security measures, protecting sensitive data, and mitigating cyber threats. I am committed to continuous learning and growth in the cybersecurity field and am excited to bring my enthusiasm and technical expertise to a dynamic, agile team.
+I am a cybersecurity professional with graduate-level training in cybersecurity, including applied risk assessment experience gained through an internship, and a strong foundation in systems administration and networking.
 
 ## Projects & Skills
 
